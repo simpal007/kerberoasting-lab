@@ -24,11 +24,9 @@ Demonstrate how service ticket hashes can be extracted and cracked, and how to m
 
 ## 📎 Files Included
 - `Report.pdf` – Detailed attack + detection explanation
-- `screenshots/` – Attack and alert visuals
-- `attack-steps.md` – Commands used
-- `wazuh-alerts.json` – Log samples (if added)
+
 
 ---
 
-**Created by:** [Your Name]  
+**Created by:** [Simpal Kumari]  
 **Role:** SOC Analyst | Cybersecurity Enthusiast
